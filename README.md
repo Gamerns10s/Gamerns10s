@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=gamerns10s&label=Profile%20views&color=ff0000&style=flat" alt="Profile views" /></a>
 </p>
 
-### 🚀 What I'm up to:
+### 🚀 What I'm up to: 
 - 🔭 **Currently working on:** Private Projects (Mostly under the radar 😉)
 - 🌱 **Learning:** Pretty much everything, but especially new technologies 📚
 - 📫 **Reach me at:** [gamerns10s@gmail.com](mailto:gamerns10s@gmail.com)
