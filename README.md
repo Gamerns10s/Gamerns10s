@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://github.com/Gamerns10s"><img src="https://readme-typing-svg.demolab.com?font=SUSE+Mono&weight=500&size=90&pause=1000&color=F70703&center=true&vCenter=true&multiline=true&repeat=false&width=3050&height=250&lines=Hi+%F0%9F%91%8B%2C+I'm+Abi;A+passionate+tech+enthusiast+and+developer+from+Earth+%F0%9F%8C%8D" alt="Typing SVG" /></a> </h1>
 
-<p align="center"><a href="https://github.com/Gamerns10s">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=gamerns10s&label=Profile%20views&color=ff0000&style=flat" alt="Profile views" /></a>
 </p>
 
